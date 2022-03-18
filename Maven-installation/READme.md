@@ -46,6 +46,6 @@ export PATH=$PATH:$M2_HOME/bin
 source ~/.bashrc
 mvn -version
 ```
-source .bash_profile
+ec2-user@maven ~]$ source .bash_profile
 
-cd /opt ---  use this   ---- source ~/.bash_profile
+cd /opt ie  ec2-user@maven opt]$ source ~/.bash_profile 

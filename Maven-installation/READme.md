@@ -47,4 +47,5 @@ source ~/.bashrc
 mvn -version
 ```
 source .bash_profile
-cd /opt  use this   source ~/.bash_profile
+
+cd /opt ---  use this   ---- source ~/.bash_profile

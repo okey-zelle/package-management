@@ -46,4 +46,4 @@ export PATH=$PATH:$M2_HOME/bin
 source ~/.bashrc
 mvn -version
 ```
-
+source .bash_profile
